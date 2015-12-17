@@ -1,4 +1,4 @@
-nclude "mbed.h"
+include "mbed.h"
 #define UPPTHRESHOLD 0.6
 #define DOWNTHRESHOLD 0.4
 #define INTERVAL 500
